@@ -1,3 +1,3 @@
 # htmlbolumsonu
 
-bolum sonu calismalarindaki er sey
+bolum sonu calismalarindaki her sey
